@@ -31,7 +31,7 @@
     "html-webpack-plugin": "2.29.0",
     "immutability-helper": "2.6.6",
     "jsdom": "11.7.0",
-    "lodash": "4.17.10",
+    "lodash": "4.17.19",
     "moment": "2.20.1",
     "prop-types": "15.6.1",
     "q": "1.5.1",
